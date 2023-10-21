@@ -1,4 +1,4 @@
-baseurl = "https://lucasantagata.github.io"
+baseurl = "https://LucaSantagata.github.io"
 DefaultContentLanguage = "en"
 title = "Beautiful Hugo"
 theme = "beautifulhugo"
